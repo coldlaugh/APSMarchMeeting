@@ -10,11 +10,12 @@ P13 | Mechanical Properities of 2D materials | ignore |
 P28 | Advances in Topological Materials I | ignore
 P55 | Avtive Fluids in Living matter: Collective Cell | Hilton Baltimore Holiday Ballroom 6 | 2:30pm - 5:30pm | Wed
 A3 | Recent Progress on 'Order by Disorder' Phenomena| Ballroom III | 8am - 11am | Mon
-A34 | Active Matter I
-A43 | Avalanches in Granular and Other Particle-based Materials I
-H40 | Mechanical Metamaterials and Origami I
-F43 | Jamming and the Glass Transition II
-K14 | Extreme Mechanics:Topology in Mechanics
-K43 | Complex Networks and their Applications I
-R3 | Glass and Jamming Transitions
-K38 | Glasses Altered by Interfaces I 
+A34 | Active Matter I | 337 | 8am - 11am | Mon
+A43 | Avalanches in Granular and Other Particle-based Materials I | 346 | 8am - 11am | Mon
+H40 | Mechanical Metamaterials and Origami I | 343 | 2:30 pm - 5:30 pm | Mon
+E43 | Jamming and the Glass Transition I | 346 | 8:12am - 11:00am| Tue
+F43 | Jamming and the Glass Transition II | 346 | 11:15am - 1:51am | Tue
+K14 | Extreme Mechanics:Topology in Mechanics | 310 | 8:00am - 11:00am | Wed
+K43 | Complex Networks and their Applications I | 346 | 8:00am - 11:00am | Web
+R3 | Glass and Jamming Transitions | Ballroom III | 8:00am - 11:00am | Thus
+
