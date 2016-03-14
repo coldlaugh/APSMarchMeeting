@@ -10,9 +10,21 @@
 + p>=5 -> p-fold anisotropy becomes irrelevant (Jose,77)
 + low T -> 6 fold anisotropy, higher -> Coplanarity, higher T -> decoupled sublattices.
 
-## avalanches by 
+## avalanches 
+### bob
 + lab model
 + stick-slip dynamics
 + granular shear dynamics
 + fracture mechanics
++ friction or fracture?
+
+## susan lehman (interesting)
++ a pile of dry particles (no cohesion) -> max cohesion by oil
++ (see) gscaling collapse of avalanche size distribution.
++ no cohesion vs. max cohesion ( fewer but larger avalanche)
+
+no cohesion | max cohesion
+---|---
+no cohesion 1.5 power law | larger than 1.5 power law with tail
+
 + 
