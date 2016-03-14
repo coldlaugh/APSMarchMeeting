@@ -1,4 +1,4 @@
-## order from disorder by piers colman
+# order from disorder by piers colman
 + "fluctuation weiss field to their easy plane"
 + "fluctuation induce hamiltonian"
 + Love triangles
@@ -10,8 +10,8 @@
 + p>=5 -> p-fold anisotropy becomes irrelevant (Jose,77)
 + low T -> 6 fold anisotropy, higher -> Coplanarity, higher T -> decoupled sublattices.
 
-## avalanches 
-### bob
+# avalanches 
+## bob
 + lab model
 + stick-slip dynamics
 + granular shear dynamics
@@ -56,3 +56,14 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 + 3d adj matrix ( step is another dim) (multilayer)
 
 
+# active matter 
+## biofilms
++ pseudomonas aeruginosa: readily forms biofilms
++ quantifying the fate of cell aggregates
++ cell compete for oxygen (simulation)
+
+# kevin k. chiou
++ isolated hearts by discher group
++ model:
++ cardiac myocyte contracts against ECM
++ Stress propagate through ...
