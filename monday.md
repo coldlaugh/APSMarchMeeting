@@ -62,8 +62,24 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 + quantifying the fate of cell aggregates
 + cell compete for oxygen (simulation)
 
-# kevin k. chiou
+## kevin k. chiou
 + isolated hearts by discher group
 + model:
 + cardiac myocyte contracts against ECM
 + Stress propagate through ...
+
+## ...
++ motility induced phase separation
++ fluctuation-dissipation theorem does not apply
++ effective potential
++ scaling limit : L->\infty
+
+## robert noest
++ fruit fly flight is passively unstable:
++  sensory organs
++  fast feedback
++  accurate
++ energy usage or stability?
++ search for periodic motion
+
+## 
