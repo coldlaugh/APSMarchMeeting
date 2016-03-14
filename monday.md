@@ -27,4 +27,13 @@ no cohesion | max cohesion
 ---|---
 no cohesion 1.5 power law | larger than 1.5 power law with tail
 
++ waiting time longer after large avalanche
+
+## by johnson group
++ bulk metallic glasses
++ pure shear scalar: k(r) = cos(4\theta)/r^2
++ loading isn't always pure shear
++ fully tensorial simulations
++ avalanche shape: mft parabola, simulaiton: deviation
++ QA: whether number of some events are subextensive???
 + 
