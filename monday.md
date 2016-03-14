@@ -9,4 +9,10 @@
 + Z_2 -> Z_p ???
 + p>=5 -> p-fold anisotropy becomes irrelevant (Jose,77)
 + low T -> 6 fold anisotropy, higher -> Coplanarity, higher T -> decoupled sublattices.
+
+## avalanches by 
++ lab model
++ stick-slip dynamics
++ granular shear dynamics
++ fracture mechanics
 + 
