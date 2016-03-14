@@ -43,4 +43,7 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 + cooling rate
 + energy landscape as a function of strain
 
-## 
+## by papanikolaou multiscale minimal modeling of microscale crystal plasticity
++ local backstress terms
++ continuum expansion around mf equations with added stochastic yielding
++ 
