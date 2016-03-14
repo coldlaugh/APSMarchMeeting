@@ -84,5 +84,8 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 
 ## dipjyoti das
 
-## planar cell chirality: breaking chiral symmetry spontaneously
+## jeremy hadidjojo planar cell chirality: breaking chiral symmetry spontaneously
+
+## yawen chang: epithelial proliferation on toroidal surface
 + 
+
