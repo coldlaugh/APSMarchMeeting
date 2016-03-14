@@ -82,4 +82,7 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 + energy usage or stability?
 + search for periodic motion
 
-## 
+## dipjyoti das
+
+## planar cell chirality: breaking chiral symmetry spontaneously
++ 
