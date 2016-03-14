@@ -49,5 +49,3 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 
 ## by matt harrington 3D imaging of particle-scale rotational motion in cyclically driven granular flows
 + rotations in granular flows: additional mode
-+ 
-+ 
