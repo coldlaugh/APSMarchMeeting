@@ -35,5 +35,12 @@ no cohesion 1.5 power law | larger than 1.5 power law with tail
 + loading isn't always pure shear
 + fully tensorial simulations
 + avalanche shape: mft parabola, simulaiton: deviation
-+ QA: whether number of some events are subextensive???
-+ 
++ QA: whether number of small events are subextensive??? distance between small events?
+
+
+## by Meng Fan
++ metallic glasses
++ cooling rate
++ energy landscape as a function of strain
+
+## 
